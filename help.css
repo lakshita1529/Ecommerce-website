@@ -1,0 +1,41 @@
+nav {
+    background-color: black;
+    margin-top: 0px;
+    padding: 20px;
+     position: fixed;
+    top: 0;
+    right: 0;
+    left: 0; 
+    
+} 
+h1 {
+    text-align: center;
+    color: white;
+
+}
+.social media{
+    text-align: center;
+    margin-top: 20%;
+}
+.contact{
+    text-align: center;
+    margin-top: 10%;
+}
+.social{
+text-align: center;
+margin-top: 20%;
+}
+.Contact{
+    text-align: center;
+    margin-top: 10%;
+}
+ h5{
+    color:black;
+    font-size: large;
+    padding:5px;
+    text-align: center;
+}
+body{
+    background-color: rgb(230, 219, 18);
+    color: white;
+}

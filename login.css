@@ -1,0 +1,62 @@
+body{
+    background-image:url('https://img.freepik.com/premium-vector/painted-background-multicoloured-palette_23-2148427592.jpg?w=2000') ;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sign{
+    width: 360px ;
+    height: 620px ;
+    margin:auto;
+    background-color: white;
+    border-radius: 3px;
+}
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+h4{
+    text-align: center;
+}
+form{
+    width:300px;
+    margin-top:20px;
+    font-size: 18px;
+;
+}
+form input{
+    width:100%;
+    padding:7px;
+    border:none;
+    border:1px solid black;
+    border-radius: 6px;
+    outline: none;
+}
+input[type="button"]{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border:none;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    
+}
+p{
+    text-align: center;
+    padding-top:20px;
+    font-size: 15px;
+
+}
+.para-2{
+    text-align:center;
+    color: white;
+    font-size: 15px;
+     margin-top: -10; 
+}
+.para-2 a{
+    color: blue;
+}
+label,input{
+    margin-left: 10px;
+    margin-top: 5px;
+}
